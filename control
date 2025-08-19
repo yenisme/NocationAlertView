@@ -1,0 +1,10 @@
+Package: yen.ios
+Name: API
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Fix Zalo error: 0328534467
+Maintainer: HN98
+Author: HN98
+Section: Tweaks
+Homepage: https://manhyen.github.io/bio/
